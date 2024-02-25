@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.tnt.client.BookingClient" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/client/BookingClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3117" y="1479"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.tnt.db.CommonDAO" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/db/CommonDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2352" y="1448"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.tnt.db.VehicleDAO" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/db/VehicleDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="158" width="350" x="1677" y="1886"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.tnt.manager.Booking_pro" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Booking_pro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2530" y="-75"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.tnt.manager.Chennai" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Chennai.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3053" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.tnt.manager.Delhi" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Delhi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3024" y="341"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.tnt.manager.FeedbackManager" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/FeedbackManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2986" y="1624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.tnt.manager.HotelManager" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/HotelManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="266" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.tnt.manager.Kochi" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Kochi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3003" y="1064"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.tnt.manager.Kolkata" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Kolkata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2999" y="827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.tnt.manager.Manager" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Manager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1004" y="293"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.tnt.manager.Mysore" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Mysore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3019" y="584"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.tnt.manager.Panaji" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Panaji.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3023" y="113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.tnt.manager.PassengerHistory" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/PassengerHistory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2051" y="1103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.tnt.manager.Payment" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Payment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2179" y="1269"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.tnt.manager.Selection" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/Selection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3553" y="659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.tnt.manager.TravelAndTourism" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/TravelAndTourism.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2506" y="1113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.tnt.manager.Destination" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/TravelAndTourism.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2747" y="1467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.tnt.manager.VehicleManager" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/VehicleManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1857" y="-370"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.tnt.model.BookingModel" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/model/BookingModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="226" y="-352"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.tnt.model.Feedback" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/model/Feedback.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3390" y="1798"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.tnt.model.Hotel" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/model/Hotel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1113" y="1283"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.tnt.model.Vehicle" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/model/Vehicle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1340" y="-404"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.tnt.model.VehicleStatus" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/model/VehicleStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2278" y="-358"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.tnt.manager.BookingManager" project="AmritaTravelAndTourism" 
+    file="/AmritaTravelAndTourism/src/com/tnt/manager/BookingManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2349" y="596"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="29" name="onwardvehicle"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="31">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="34">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="35" name="reserveHotelRoom"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="38">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="39" name="booking"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <association id="44">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="45" name="hotelManager"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="48" name="vehicleDao"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="52">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="53" name="CommonDao"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="57" name="vehicleManager"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="66">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="67" name="hotel"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="70" name="vehicleList"/>      
+      <multiplicity id="71" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="73" name="vehiclesStatus"/>      
+      <multiplicity id="74" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="76" name="returnvehicle"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="82">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="87">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="88">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
